@@ -1,0 +1,47 @@
+.header{
+
+    padding: 2%;
+}
+body{
+    background-color: #808080;
+}
+h2{
+    margin-bottom: 0%;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.form-example1{
+    
+    padding: 1%;
+    color: rgb(17, 17, 17);
+}
+.form-example2{
+    
+    padding: 1%;
+    color: rgb(17, 17, 17);
+}
+.form-example3{
+    
+    padding: 1%;
+    color: rgb(17, 17, 17);
+}
+.form-example4{
+    
+    padding: 1%;
+    color: rgb(17, 17, 17);
+}
+.form-example5{
+    
+    padding: 1%;
+    color: rgb(17, 17, 17);
+}
+
+.bottom{
+    background-color: rgb(17, 17, 17);
+    font-family: fantasy;
+    color: #fffaf0;
+    padding:2%;
+    text-align: center;
+    font-variant: normal;
+    
+}
